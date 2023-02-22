@@ -1,9 +1,11 @@
 #include "main.h"
 
 /**
- * main - print _putchar
- * is written by mbah
- * Return: 0
+ * main - print _putchar and a new line
+ *
+ * _putchar - prints a single character
+ *
+ * Return: always 0 (success)
  */
 
 
