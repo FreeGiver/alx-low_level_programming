@@ -1,9 +1,15 @@
 #include <stdio.h>
+#include <main.h>
+
 /**
+ * main: entry point
+ *
  * _putchar - prints the characters (_putcher)
+ *
  * return: 0 (success)
  */
-int (main)
+
+int main(void)
 {
 	_putcher("_");
 	_putcher("p");
@@ -14,5 +20,5 @@ int (main)
 	_putcher("e");
 	_putcher("r");
 	_putcher('\n');
-	return(0);
+	return (0);
 }
