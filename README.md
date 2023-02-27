@@ -4,3 +4,4 @@ This is the alx low level programming repository and contai the following direct
 0x02-functions-nested-loops
 0x03-debugging
 0x04-more-functions-nested-loops
+0x05-pointers-arrays-strings
