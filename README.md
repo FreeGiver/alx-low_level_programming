@@ -9,3 +9,4 @@ This is the alx low level programming repository and contai the following direct
 0x07-pointers-arrays-strings
 0x08-recursion
 0x09-static-libraries
+0x0A-argc-argv
