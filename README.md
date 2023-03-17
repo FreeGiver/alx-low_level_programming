@@ -11,3 +11,4 @@ This is the alx low level programming repository and contai the following direct
 0x09-static-libraries
 0x0A-argc-argv
 0x0B-malloc-free
+0x0C-more-malloc-free
